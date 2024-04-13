@@ -14,6 +14,8 @@ Playground: https://developer.mozilla.org/en-US/play
 
 ![image](https://github.com/luiscoco/CSS_BOX-SIZING/assets/32194879/19c9a839-9f9d-497f-8dd7-cc7ffba35159)
 
+![image](https://github.com/luiscoco/CSS_BOX-SIZING/assets/32194879/df8fd29f-5868-4cd8-a38d-8dec5825825a)
+
 **HTML**
 
 ```html
