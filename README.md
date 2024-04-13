@@ -1,6 +1,10 @@
 # CSS: BOX-SIZING
 
-See this youtube video: https://www.youtube.com/watch?v=Vx854s9YE78
+See these youtube videos: 
+
+https://www.youtube.com/watch?v=Vx854s9YE78
+
+https://www.youtube.com/watch?v=J0BNHBJcFQk
 
 See also this web pages: 
 
