@@ -30,7 +30,7 @@ Playground: https://developer.mozilla.org/en-US/play
   border: 10px solid blue;
   padding: 100px;
 
-  box-sizing: content-box
+  box-sizing: content-box;
 }
 ```
 
