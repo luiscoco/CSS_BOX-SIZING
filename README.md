@@ -69,3 +69,16 @@ Then we selec the **Elements** tab
 ![image](https://github.com/luiscoco/CSS_BOX-SIZING/assets/32194879/ea7b6b6e-0dcc-45f7-909b-054f56b9dd5b)
 
 
+VERY IMPORTANT
+
+If we would like to set the messuring criteria for all the component in our webpage use this code:
+
+```css
+html {
+    box-sizing: border-box;
+}
+   
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+```
