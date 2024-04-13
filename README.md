@@ -18,7 +18,7 @@ For debugging the web page we select the **More Tools->Developer Tools**
 
 Then we selec the **Elements** tab
 
-![image](https://github.com/luiscoco/CSS_BOX-SIZING/assets/32194879/67fa91fd-9631-4b27-b531-ee277167cb1a)
+![image](https://github.com/luiscoco/CSS_BOX-SIZING/assets/32194879/46c929c9-d145-4603-8f16-3951a0e4efda)
 
 **HTML**
 
