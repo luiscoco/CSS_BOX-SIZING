@@ -28,5 +28,7 @@ Playground: https://developer.mozilla.org/en-US/play
   height: 250px;
   background: #09f;
   border: 10px solid blue;
+  padding: 100px;
+}
 }
 ```
