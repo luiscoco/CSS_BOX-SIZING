@@ -12,5 +12,21 @@ See also this web pages:
 
 Playground: https://developer.mozilla.org/en-US/play
 
+![image](https://github.com/luiscoco/CSS_BOX-SIZING/assets/32194879/19c9a839-9f9d-497f-8dd7-cc7ffba35159)
 
+**HTML**
 
+```html
+<div class="box"></div>
+```
+
+**CSS**
+
+```css
+.box {
+  width: 250px;
+  height: 250px;
+  background: #09f;
+  border: 10px solid blue;
+}
+```
